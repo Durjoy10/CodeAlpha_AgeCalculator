@@ -1,4 +1,5 @@
 # ***Title: Age Calculator***
+![image](https://github.com/Durjoy10/CodeAlpha_AgeCalculator/assets/71838089/f5f2e8d1-8552-489e-a2ef-2d3cd783faa0)
 
 Description:
 
