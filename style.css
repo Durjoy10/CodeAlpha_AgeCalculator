@@ -1,0 +1,40 @@
+body {
+    background-color: #061122;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.heading {
+    padding-top: 5rem;
+    color: #2586BD;
+    font-size: 70px;
+    font-weight: 600;
+}
+
+.hero p {
+    color: #fff;
+    opacity: 70%;
+    font-size: 30px;
+}
+
+#calculateAgeForm input {
+    outline: black;
+    border: 2px solid;
+    font-size: 30px;
+    height: 70px;
+    width: 176px;
+    gap: 3rem;
+
+}
+
+#calculateAgeForm button {
+    color: #061122;
+    background-color: #2586BD;
+    border-radius: 30px;
+    width: 562px;
+    height: 70px;
+    margin-top: 3rem;
+    font-size: 30px;
+    font-weight: 600;
+}
